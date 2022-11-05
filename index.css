@@ -1,4 +1,12 @@
 body {
-  background-color: hsla(0, 0%, 0%, 0.659);
-  color: #307900
+  background-color: hwb(0 0% 100%);
+  color: #67ff02
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
